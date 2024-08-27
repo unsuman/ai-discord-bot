@@ -1,4 +1,4 @@
-# Discord Bot made with Golang
+# 🤖 Discord Bot made with Golang
 
 ## Project Description
 
