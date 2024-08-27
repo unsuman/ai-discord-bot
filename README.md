@@ -1,4 +1,4 @@
-# 🤖 Discord Bot made with Golang
+# 🤖 AI Discord Chat Bot
 
 ## Project Description
 
